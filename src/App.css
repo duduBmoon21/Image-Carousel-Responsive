@@ -1,7 +1,9 @@
 html,
 body {
+  background-color: rgba(244, 245, 218, 0.999);
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-align: center;
+  
 }
 
 .slider {
